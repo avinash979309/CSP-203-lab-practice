@@ -1,2 +1,4 @@
 print(first change for conflict)
-print('Conflicting change in main branch.')
+
+print('Editing csp.py in the edit_sample_file branch.')
+
